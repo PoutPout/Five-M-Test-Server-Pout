@@ -9,3 +9,4 @@ You need to adding at the end , in your citmp-server.yml :
 You need also EssentialMode
 It's my version of ES_carshop
 It's based on ES_carshop
+My scripts works but have somes bugs
