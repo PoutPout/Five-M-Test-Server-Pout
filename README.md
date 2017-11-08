@@ -7,3 +7,5 @@ You need to adding at the end , in your citmp-server.yml :
     - es_carshop2
     - es_carshop3
 You need also EssentialMode
+It's my version of ES_carshop
+It's based on ES_carshop
